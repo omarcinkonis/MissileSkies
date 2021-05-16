@@ -1,0 +1,1 @@
+A game in which you take the role of a plane pilot who is trying to collect as many gems as possible, while being shot at with rockets.
